@@ -1,0 +1,2 @@
+
+RClient = RMQClient.new
